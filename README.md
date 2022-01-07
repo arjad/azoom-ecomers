@@ -1,2 +1,2 @@
 # azoom-ecomers
-practical project on freelancing
+https://azoom-app.web.app/
